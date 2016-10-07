@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\SuggestControlExample\", "SuggestControlExample\", "{A1310A2D-FF45-4664-B1FE-51F373424C31}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SuggestControlExample"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 12\SuggestControlExample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SuggestControlExample\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SuggestControlExample"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 12\SuggestControlExample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SuggestControlExample\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3526"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1310A2D-FF45-4664-B1FE-51F373424C31}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A1310A2D-FF45-4664-B1FE-51F373424C31}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

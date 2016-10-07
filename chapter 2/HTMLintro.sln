@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\HTMLintro\", "HTMLintro\", "{D0B5B39E-4611-4341-A539-669F875A44AF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/HTMLintro"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 2\HTMLintro\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\HTMLintro\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HTMLintro"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 2\HTMLintro\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\HTMLintro\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3207"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B5B39E-4611-4341-A539-669F875A44AF}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D0B5B39E-4611-4341-A539-669F875A44AF}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

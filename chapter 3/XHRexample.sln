@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\XHRexample\", "XHRexample\", "{3785365E-DD1D-46A9-918F-4B42AF4ED02C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/XHRexample"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 3\XHRexample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\XHRexample\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/XHRexample"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 3\XHRexample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\XHRexample\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3231"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3785365E-DD1D-46A9-918F-4B42AF4ED02C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{3785365E-DD1D-46A9-918F-4B42AF4ED02C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

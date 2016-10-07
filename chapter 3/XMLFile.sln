@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\XMLFile\", "XMLFile\", "{4DBE004F-EB4A-4BF8-8331-3E1B506437FD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/XMLFile"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 3\XMLFile\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\XMLFile\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/XMLFile"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 3\XMLFile\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\XMLFile\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3251"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBE004F-EB4A-4BF8-8331-3E1B506437FD}.Debug|.NET.ActiveCfg = Debug|.NET
+		{4DBE004F-EB4A-4BF8-8331-3E1B506437FD}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

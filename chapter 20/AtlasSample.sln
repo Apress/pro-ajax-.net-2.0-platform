@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\AtlasSample\", "AtlasSample\", "{C09E72D9-C94E-43D9-8F9B-B28C3355FA4E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/AtlasSample"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 20\AtlasSample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AtlasSample\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AtlasSample"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Books\Ajax Book\My Ajax Book\Book\sample applications\chapter 20\AtlasSample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AtlasSample\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3535"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09E72D9-C94E-43D9-8F9B-B28C3355FA4E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C09E72D9-C94E-43D9-8F9B-B28C3355FA4E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

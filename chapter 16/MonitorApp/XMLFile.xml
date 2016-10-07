@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Results>
+	<computer>
+		<Manufacturer>Dell</Manufacturer>
+		<Model>Latitude</Model>
+		<Price>1650</Price>
+	</computer>
+	<computer>
+		<Manufacturer>Dell</Manufacturer>
+		<Model>Inspiron</Model>
+		<Price>1850</Price>
+	</computer>
+</Results>

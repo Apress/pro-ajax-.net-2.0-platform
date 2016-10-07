@@ -1,0 +1,5 @@
+bin\Debug\AdventureWorks.Core.dll
+bin\Debug\AdventureWorks.Core.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AdventureWorks.Core.dll
+obj\Debug\AdventureWorks.Core.pdb
